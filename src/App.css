@@ -1,0 +1,65 @@
+.nav {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: blueviolet;
+  font-size: 24px;
+
+}
+.sticky{
+  position: sticky;
+  top: 0;
+}
+.logo{
+  margin-right: 20px;
+  display: flex;
+}
+.messi{
+  background-image: url('https://static.fanpage.it/wp-content/uploads/sites/27/2020/08/leo-messi-barcellona.jpg' );
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: auto;
+  height: 100vh;
+}
+.main{
+  font-size: 30px;
+}
+.contant{
+  margin: 10rem auto 0 auto;
+  display: flex;
+  /* justify-content: space-between; */
+  padding: 40px;
+  width: auto; 
+  justify-content: space-evenly;
+}
+.contant img{
+  
+  height: 500px;
+}
+.contant p{
+  margin-right: 15px;
+  text-align: center;
+  font-size: 35px;
+  color: rgb(59, 47, 4);
+}
+.contant h3{
+  text-align: center;
+  margin: 0;
+ color: rgb(207, 169, 0);
+ font-size: 40px;
+}
+
+
+.footer-text{
+  display: flex;
+}
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 24px;
+
+}
+.foo{
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 24px;
+}
